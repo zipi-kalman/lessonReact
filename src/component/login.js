@@ -23,6 +23,7 @@ history.push('/product')}
     return(
       <>
       <h1>hello branch</h1>
+      <h2>hello test1</h2>
         <div className="row mt-5">
             <div className="col-2"></div>
             <div className="col-8">
